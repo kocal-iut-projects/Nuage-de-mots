@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nuage de mots</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+    <section id="left">
+        <p id="alert">Merci d'importer un fichier</p>
+        <canvas id="canvas"></canvas>
+    </section>
+
+    <section id="right">
+        <input type="file" id="h_loadfile" class="hidden" />
+        <button id="loadfile">Importer un fichier texte</button><br />
+
+        <input type="file" id="h_exportfile" nwsaveas class="hidden"/>
+        <button id="exportToHTML">Exporter au format HTML</button><br />
+        <button id="exportToPNG">Exporter au format PNG</button><br />
+        <button id="exportToJPEG">Exporter au format JPEG</button><br />
+    </section>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

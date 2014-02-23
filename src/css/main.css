@@ -1,0 +1,45 @@
+/* 1 : GLOBAL */
+* { box-sizing : border-box }
+
+body { margin : 0 }
+
+/* 2 : AGENCEMENTS */
+body { display: flex }
+
+html, body, #left, #right {
+    height : 100%;
+}
+
+#left { 
+    position : relative;
+    flex : 4
+}
+
+#canvas {
+    height : 100%;
+    width: 100%;
+    display: block;
+}
+
+#right { 
+    flex : 1;
+    text-align : center
+}
+
+/* 3 : MODULES */
+#alert {
+    position : absolute;
+    bottom : 50%;
+    left : 0;
+    right : 0;
+    text-align: center;
+}
+
+/* 4 : ETATS */
+.hidden { display : none }
+
+/* 5 : THEME */
+
+#left { background : red }
+#canvas { background: yellow }
+#right { background : blue }
