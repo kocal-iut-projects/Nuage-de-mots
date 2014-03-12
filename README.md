@@ -1,8 +1,9 @@
 Nuage-de-mots
 =============
 
+**Le programme est encore un WIP**
+
 Un des projets du DUT Informatique de Bourg-en-Bresse qui m'a été présenté lors des portes ouvertes.
-J'ai fait ce projet car j'ai trouvé le concept intéressant, et parce que je m'ennuyais.
 
 Installation
 ------------
