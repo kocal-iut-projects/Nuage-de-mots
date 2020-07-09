@@ -3,7 +3,7 @@ Nuage-de-mots
 
 **Le programme est encore un WIP**
 
-Un des projets du DUT Informatique de Bourg-en-Bresse qui m'a été présenté lors des portes ouvertes.
+Un des projets du DUT Informatique de Bourg-en-Bresse qui m'a été présenté lors des portes ouvertes, et que j'ai voulu refaire pour le challenge.
 
 Installation
 ------------
